@@ -2,7 +2,7 @@
 <Containers>
   <TemplateURL>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/privoxyvpn.xml</TemplateURL>
   <Beta>False</Beta>
-  <Category>Productivity: Tools:</Category>
+  <Category>Productivity: Tools: Network:Privacy</Category>
   <Name>binhex-privoxyvpn</Name>
   <Description>
     [b]Description[/b][br]
